@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://raw.githubusercontent.com/yammadev/flag-icons/master/png/BR.png
 <h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
 
  <h3>🎓 Formação Acadêmica</h3> 
