@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   </samp>
   <h3 align="left">🧑🏻‍💻Status:</h3>
 
+<hr>
 
 <div align="center">
   <a href="https://github.com/mwmjunior">
