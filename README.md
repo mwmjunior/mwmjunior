@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hello! I am Márcio 
+ <h3> Formação Acadêmica</h3>
+💻 Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
+<hr>
+ 
+</div>
 <p align="center">
   <samp>
       Olá amigo! sou o Márcio
