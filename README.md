@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
-# flag-icons ![BR](png/BR.png)
- <h3>🎓 Formação Acadêmica</h3> 
 
+# flag-icons ![CO](png/CO.png)
+A beautiful `svg` + `png` + `sass` + `css` collection of 261 flags by [Yefferson Marín](https://github.com/yammadev).
+
+
+
+ <h3>🎓 Formação Acadêmica</h3> 
   ⚡ Engenharia Elétrica - Faculdade de Engenharia e Inovação Técnico Profissional <br>
   💻 Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
 <hr>
