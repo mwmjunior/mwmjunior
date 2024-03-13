@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ## ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub
 
- <h3> Formação Acadêmica</h3>
-🎓 Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
+ <h3>🎓 Formação Acadêmica</h3>
+ Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
 <hr>
  
 </div>
