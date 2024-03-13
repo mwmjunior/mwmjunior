@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 <h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
 
- <h3>🎓 Formação Acadêmica</h3>
+ <h3>🎓 Formação Acadêmica</h3> ![image](https://github.com/mwmjunior/mwmjunior/assets/84160431/63078594-0b2c-450f-a0db-57088bef2df9)
+
   ⚡ Engenharia Elétrica - Faculdade de Engenharia e Inovação Técnico Profissional <br>
   💻 Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
 <hr>
