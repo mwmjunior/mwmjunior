@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 -->
 <h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=28a745&size=45&center=true&vCenter=true&width=1000&lines=<+HELLO,+World!+/>;<+HELLO,+Coders!+/>;Welcome+to+my+GitHub!+:%29" />
+</div>
+
  <h3>🎓 Formação Acadêmica</h3>
  Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
 <hr>
