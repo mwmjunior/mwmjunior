@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
-# flag-icons ![CO](png/BR.png)
+# flag-icons ![BR](png/BR.png)
  <h3>🎓 Formação Acadêmica</h3> 
 
   ⚡ Engenharia Elétrica - Faculdade de Engenharia e Inovação Técnico Profissional <br>
