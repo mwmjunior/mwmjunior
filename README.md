@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  ![snake gif](https://github.com/mwmjunior/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
   <a href="https://github.com/mwmjunior">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mwmjunior&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwmjunior&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h3 align="left">### :hammer_and_wrench: Linguagens e ferramentas:</h3>
+<h3 align="left">hammer_and_wrench: Linguagens e Ferramentas:</h3>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git," />
 </div>
