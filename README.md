@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello! I am Márcio Wagner Maurício Junior
+## Hello! I am Márcio 
 <p align="center">
   <samp>
       Olá amigo! sou o Márcio
