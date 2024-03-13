@@ -29,11 +29,11 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwmjunior&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h3 align="left">💻 Technologies:</h3>
+<h3 align="left">### :hammer_and_wrench: Linguagens e ferramentas:</h3>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git," />
 </div>
-<h3 align="left"> 📱 Contact:</h3>
+<h3 align="left"> 📱 Contato:</h3>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"></a>
