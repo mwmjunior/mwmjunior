@@ -28,11 +28,8 @@ Here are some ideas to get you started:
 </div>
 
 <h3 align="left">💻 Technologies:</h3>
-<div>
-<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" style="border-radius: 30px" target="_blank"></a>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="border-radius: 30px" target="_blank"></a>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 30px" target="_blank"></a>
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git," />
 </div>
 <h3 align="left"> 📱 Contact:</h3>
 
