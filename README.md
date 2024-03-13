@@ -19,7 +19,7 @@ Here are some ideas to get you started:
       Olá amigo! sou o Márcio
     <br>Cursando desenvolvimento de sistemas na Escola Senai de Informática.<br>
   </samp>
-  <h3 align="left">🧑🏻‍💻GitHub Statistics:</h3>
+  <h3 align="left">🧑🏻‍💻Status:</h3>
     
 <div align="center">
   <a href="https://github.com/mwmjunior">
