@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub
+<h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
 
  <h3>🎓 Formação Acadêmica</h3>
  Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
