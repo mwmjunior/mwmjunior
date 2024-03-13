@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🛠️ Linguagens e Ferramentas:</h3>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,dotnet,js" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,dotnet,js,vscode,visualstudio" />
 </div>
 <h3 align="left"> 📱 Contato:</h3>
 
