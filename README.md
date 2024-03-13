@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwmjunior&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-<h3 align="left">💻 SKILLS:</h3>
+<h3 align="left">💻 Technologies:</h3>
 <div>
 <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" style="border-radius: 30px" target="_blank"></a>
