@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://raw.githubusercontent.com/yammadev/flag-icons/master/png/BR.png
 <h1> ☕ Olá, seja bem-vindo(a) ao meu perfil GitHub</h1>
-
+# flag-icons ![CO](png/BR.png)
  <h3>🎓 Formação Acadêmica</h3> 
 
   ⚡ Engenharia Elétrica - Faculdade de Engenharia e Inovação Técnico Profissional <br>
