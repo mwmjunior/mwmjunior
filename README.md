@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwmjunior&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h3 align="left">🛠️ Linguagens e ferramentas:</h3>
+<h3 align="left">🛠️ Linguagens e Ferramentas:</h3>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git," />
 </div>
