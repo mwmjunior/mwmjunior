@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="border-radius: 30px" target="_blank"></a>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 30px" target="_blank"></a>
 </div>
-<img src="https://github.com/Lucca-gOn/Lucca-gOn/blob/main/gif/linha.gif" width="100%">
 <h3 align="left"> 📱 CONTACTS:</h3>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
