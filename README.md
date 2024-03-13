@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  <h3>🎓 Formação Acadêmica</h3> 
   ⚡  <i><strong>Engenharia Elétrica</strong></i> - Faculdade de Engenharia e Inovação Técnico Profissional <br>
-  💻 Técnico em Desenvolvimento de Sistemas - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
+  💻 <i><strong>Técnico em Desenvolvimento de Sistemas</strong></i> - Escola SENAI de Informática "Paulo Antonio Skaf" <br>
 <hr>
  
 </div>
